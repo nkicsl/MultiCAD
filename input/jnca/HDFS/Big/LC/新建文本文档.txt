@@ -1,0 +1,169 @@
+====== Input data summary ======
+Total: 575061 instances, 16838 anomaly, 558223 normal
+Train: 287530 instances, 8419 anomaly, 279111 normal
+Test: 287531 instances, 8419 anomaly, 279112 normal
+
+====== Transformed train data summary ======
+Train data shape: 287530-by-44
+
+====== Transformed test data summary ======
+Test data shape: 287531-by-44
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 10 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 42000 instances.
+Processed 44000 instances.
+Processed 46000 instances.
+Processed 48000 instances.
+Processed 50000 instances.
+Processed 52000 instances.
+Processed 54000 instances.
+Processed 56000 instances.
+Processed 58000 instances.
+Processed 60000 instances.
+Processed 62000 instances.
+Processed 64000 instances.
+Processed 66000 instances.
+Processed 68000 instances.
+Processed 70000 instances.
+Processed 72000 instances.
+Processed 74000 instances.
+Processed 76000 instances.
+Processed 78000 instances.
+Processed 80000 instances.
+Processed 82000 instances.
+Processed 84000 instances.
+Processed 86000 instances.
+Processed 88000 instances.
+Processed 90000 instances.
+Processed 92000 instances.
+Processed 94000 instances.
+Processed 96000 instances.
+Processed 98000 instances.
+Processed 100000 instances.
+Processed 102000 instances.
+Processed 104000 instances.
+Processed 106000 instances.
+Processed 108000 instances.
+Processed 110000 instances.
+Processed 112000 instances.
+Processed 114000 instances.
+Processed 116000 instances.
+Processed 118000 instances.
+Processed 120000 instances.
+Processed 122000 instances.
+Processed 124000 instances.
+Processed 126000 instances.
+Processed 128000 instances.
+Processed 130000 instances.
+Processed 132000 instances.
+Processed 134000 instances.
+Processed 136000 instances.
+Processed 138000 instances.
+Processed 140000 instances.
+Processed 142000 instances.
+Processed 144000 instances.
+Processed 146000 instances.
+Processed 148000 instances.
+Processed 150000 instances.
+Processed 152000 instances.
+Processed 154000 instances.
+Processed 156000 instances.
+Processed 158000 instances.
+Processed 160000 instances.
+Processed 162000 instances.
+Processed 164000 instances.
+Processed 166000 instances.
+Processed 168000 instances.
+Processed 170000 instances.
+Processed 172000 instances.
+Processed 174000 instances.
+Processed 176000 instances.
+Processed 178000 instances.
+Processed 180000 instances.
+Processed 182000 instances.
+Processed 184000 instances.
+Processed 186000 instances.
+Processed 188000 instances.
+Processed 190000 instances.
+Processed 192000 instances.
+Processed 194000 instances.
+Processed 196000 instances.
+Processed 198000 instances.
+Processed 200000 instances.
+Processed 202000 instances.
+Processed 204000 instances.
+Processed 206000 instances.
+Processed 208000 instances.
+Processed 210000 instances.
+Processed 212000 instances.
+Processed 214000 instances.
+Processed 216000 instances.
+Processed 218000 instances.
+Processed 220000 instances.
+Processed 222000 instances.
+Processed 224000 instances.
+Processed 226000 instances.
+Processed 228000 instances.
+Processed 230000 instances.
+Processed 232000 instances.
+Processed 234000 instances.
+Processed 236000 instances.
+Processed 238000 instances.
+Processed 240000 instances.
+Processed 242000 instances.
+Processed 244000 instances.
+Processed 246000 instances.
+Processed 248000 instances.
+Processed 250000 instances.
+Processed 252000 instances.
+Processed 254000 instances.
+Processed 256000 instances.
+Processed 258000 instances.
+Processed 260000 instances.
+Processed 262000 instances.
+Processed 264000 instances.
+Processed 266000 instances.
+Processed 268000 instances.
+Processed 270000 instances.
+Processed 272000 instances.
+Processed 274000 instances.
+Processed 276000 instances.
+Processed 278000 instances.
+Processed 279111 instances.
+Found 13 clusters online.
+
+Train validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 0.755, F1-measure: 0.860
+
+Test validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 0.775, F1-measure: 0.873
+
+
+Process finished with exit code 0

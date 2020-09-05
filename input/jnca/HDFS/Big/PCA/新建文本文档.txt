@@ -1,0 +1,26 @@
+====== Input data summary ======
+Total: 575061 instances, 16838 anomaly, 558223 normal
+Train: 287530 instances, 8419 anomaly, 279111 normal
+Test: 287531 instances, 8419 anomaly, 279112 normal
+
+====== Transformed train data summary ======
+Train data shape: 287530-by-44
+
+====== Transformed test data summary ======
+Test data shape: 287531-by-44
+
+====== Model summary ======
+n_components: 4
+Project matrix shape: 44-by-44
+SPE threshold: 2.7735794322751004
+
+Train validation:
+====== Evaluation summary ======
+Precision: 0.942, recall: 0.805, F1-measure: 0.868
+
+Test validation:
+====== Evaluation summary ======
+Precision: 0.811, recall: 0.845, F1-measure: 0.828
+
+
+Process finished with exit code 0

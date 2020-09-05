@@ -1,0 +1,17 @@
+====== Transformed train data summary ======
+Train data shape: 66301-by-19
+
+====== Transformed test data summary ======
+Test data shape: 66301-by-19
+
+====== Model summary ======
+Train validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 1.000, F1-measure: 1.000
+
+Test validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 1.000, F1-measure: 1.000
+
+
+Process finished with exit code 0

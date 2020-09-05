@@ -1,0 +1,57 @@
+====== Transformed train data summary ======
+Train data shape: 66301-by-19
+
+====== Transformed test data summary ======
+Test data shape: 66301-by-19
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 17 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 42000 instances.
+Processed 44000 instances.
+Processed 46000 instances.
+Processed 48000 instances.
+Processed 50000 instances.
+Processed 52000 instances.
+Processed 54000 instances.
+Processed 56000 instances.
+Processed 58000 instances.
+Processed 60000 instances.
+Processed 62000 instances.
+Processed 64000 instances.
+Processed 65896 instances.
+Found 17 clusters online.
+
+Train validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 1.000, F1-measure: 1.000
+
+Test validation:
+====== Evaluation summary ======
+Precision: 1.000, recall: 1.000, F1-measure: 1.000
+
+
+Process finished with exit code 0

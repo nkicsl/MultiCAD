@@ -1,0 +1,22 @@
+====== Input data summary ======
+Total: 575061 instances, 16838 anomaly, 558223 normal
+Train: 287530 instances, 8419 anomaly, 279111 normal
+Test: 287531 instances, 8419 anomaly, 279112 normal
+
+====== Transformed train data summary ======
+Train data shape: 287530-by-44
+
+====== Transformed test data summary ======
+Test data shape: 287531-by-44
+
+====== Model summary ======
+Train validation:
+====== Evaluation summary ======
+Precision: 0.961, recall: 0.995, F1-measure: 0.978
+
+Test validation:
+====== Evaluation summary ======
+Precision: 0.837, recall: 0.998, F1-measure: 0.910
+
+
+Process finished with exit code 0

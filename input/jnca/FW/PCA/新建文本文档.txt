@@ -1,0 +1,21 @@
+====== Transformed train data summary ======
+Train data shape: 66301-by-19
+
+====== Transformed test data summary ======
+Test data shape: 66301-by-19
+
+====== Model summary ======
+n_components: 9
+Project matrix shape: 19-by-19
+SPE threshold: 0.09218591216272723
+
+Train validation:
+====== Evaluation summary ======
+Precision: 0.967, recall: 1.000, F1-measure: 0.983
+
+Test validation:
+====== Evaluation summary ======
+Precision: 0.997, recall: 1.000, F1-measure: 0.999
+
+
+Process finished with exit code 0
